@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["AttrVal","Represents a key/value pair"],["Cookie","Holds all the data for a single cookie"],["CookieJar","A jar of cookies for managing a session"],["Error","Crate-level error type used to indicate either a problem with parsing, or a UTF-8 issue"]]});
